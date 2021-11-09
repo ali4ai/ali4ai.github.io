@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Amrit Singhal</title>
-    <link>https://amr4i.github.io/</link>
-      <atom:link href="https://amr4i.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Amrit Singhal</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Amrit Singhal</copyright><lastBuildDate>Tue, 07 Jan 2020 00:00:00 -0500</lastBuildDate>
+    <title>Ali Hassan Khan</title>
+    <link>https://ali4ai.github.io/</link>
+      <atom:link href="https://ali4ai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ali Hassan Khan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Ali Hassan Khan</copyright><lastBuildDate>Tue, 07 Jan 2020 00:00:00 -0500</lastBuildDate>
     <image>
-      <url>https://amr4i.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Amrit Singhal</title>
-      <link>https://amr4i.github.io/</link>
+      <url>https://ali4ai.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Ali Hassan Khan</title>
+      <link>https://ali4ai.github.io/</link>
     </image>
     
     <item>
       <title>NYC Taxi Travel Time Prediction through Leveraging Geographical Information</title>
-      <link>https://amr4i.github.io/project/nyc-taxi-times/</link>
+      <link>https://ali4ai.github.io/project/nyc-taxi-times/</link>
       <pubDate>Tue, 07 Jan 2020 00:00:00 -0500</pubDate>
-      <guid>https://amr4i.github.io/project/nyc-taxi-times/</guid>
+      <guid>https://ali4ai.github.io/project/nyc-taxi-times/</guid>
       <description>&lt;h2 id=&#34;location&#34;&gt;Location&lt;/h2&gt;
 &lt;p&gt;This project was done as a course project for 10-701: Introduction to Machine Learning in the Fall &amp;lsquo;19 term at CMU.&lt;/p&gt;
 &lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
@@ -35,9 +35,9 @@ crossing points.&lt;/p&gt;
     
     <item>
       <title>ARComposer: Authoring Augmented Reality Experiences through Text</title>
-      <link>https://amr4i.github.io/publication/ar-composer/</link>
+      <link>https://ali4ai.github.io/publication/ar-composer/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://amr4i.github.io/publication/ar-composer/</guid>
+      <guid>https://ali4ai.github.io/publication/ar-composer/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -57,9 +57,9 @@ crossing points.&lt;/p&gt;
     
     <item>
       <title>Visualizing Natural Language through 3D Scenes in Augmented Reality</title>
-      <link>https://amr4i.github.io/patent/ar-patent/</link>
+      <link>https://ali4ai.github.io/patent/ar-patent/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://amr4i.github.io/patent/ar-patent/</guid>
+      <guid>https://ali4ai.github.io/patent/ar-patent/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -79,9 +79,9 @@ crossing points.&lt;/p&gt;
     
     <item>
       <title>Query Biased Multi-Document Abstractive Summarisation</title>
-      <link>https://amr4i.github.io/project/query-abs-summary/</link>
+      <link>https://ali4ai.github.io/project/query-abs-summary/</link>
       <pubDate>Thu, 27 Dec 2018 00:00:00 -0500</pubDate>
-      <guid>https://amr4i.github.io/project/query-abs-summary/</guid>
+      <guid>https://ali4ai.github.io/project/query-abs-summary/</guid>
       <description>&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
 &lt;p&gt;This project was started as part of the course &lt;a href=&#34;https://www.cse.iitk.ac.in/pages/CS657.html&#34;&gt;CS657: Information Retrieval&lt;/a&gt;, in the Spring &amp;lsquo;18 term at IIT Kanpur under &lt;a href=&#34;https://www.cse.iitk.ac.in/users/arnabb/&#34;&gt;Prof. Arnab Bhattacharya&lt;/a&gt;, Department of Computer Science and Engineering, IIT Kanpur. It was later continued beyond the course into my second undergraduate research project.&lt;/p&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
@@ -101,9 +101,9 @@ summaries for our information need.&lt;/p&gt;
     
     <item>
       <title>Augmented Reality Authoring</title>
-      <link>https://amr4i.github.io/project/augmented-reality/</link>
+      <link>https://ali4ai.github.io/project/augmented-reality/</link>
       <pubDate>Fri, 27 Jul 2018 00:00:00 -0400</pubDate>
-      <guid>https://amr4i.github.io/project/augmented-reality/</guid>
+      <guid>https://ali4ai.github.io/project/augmented-reality/</guid>
       <description>&lt;h2 id=&#34;location&#34;&gt;Location&lt;/h2&gt;
 &lt;p&gt;This project was done as a research internship at &lt;a href=&#34;https://research.adobe.com/about-adobe-research/bigdata-experience-lab/&#34;&gt;Big Data Experience Lab, Adobe Systems, Bangalore&lt;/a&gt; during &lt;em&gt;May &amp;lsquo;18 - Jul &amp;lsquo;18&lt;/em&gt;, the summer of my third year.&lt;/p&gt;
 &lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
@@ -115,9 +115,9 @@ summaries for our information need.&lt;/p&gt;
     
     <item>
       <title>Cross Modal Media Retrieval</title>
-      <link>https://amr4i.github.io/project/cross-modal-media/</link>
+      <link>https://ali4ai.github.io/project/cross-modal-media/</link>
       <pubDate>Sun, 27 May 2018 00:00:00 -0400</pubDate>
-      <guid>https://amr4i.github.io/project/cross-modal-media/</guid>
+      <guid>https://ali4ai.github.io/project/cross-modal-media/</guid>
       <description>&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
 &lt;p&gt;This project was done as my first undergraduate research project under &lt;a href=&#34;https://www.cs.ox.ac.uk/people/medha.atre/&#34;&gt;Prof. Medha Atre&lt;/a&gt;, Department of Computer Science and Engineering, IIT Kanpur.&lt;/p&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
@@ -133,9 +133,9 @@ to retrieve cross-modal results efficiently.&lt;/p&gt;
     
     <item>
       <title>Neural Machine Translation for Low Resource Languages</title>
-      <link>https://amr4i.github.io/project/neural-machine-translation/</link>
+      <link>https://ali4ai.github.io/project/neural-machine-translation/</link>
       <pubDate>Sun, 27 May 2018 00:00:00 -0400</pubDate>
-      <guid>https://amr4i.github.io/project/neural-machine-translation/</guid>
+      <guid>https://ali4ai.github.io/project/neural-machine-translation/</guid>
       <description>&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
 &lt;p&gt;This project was done as part of the course &lt;a href=&#34;https://www.cse.iitk.ac.in/pages/CS671.html&#34;&gt;CS671: Introduction to Natural Language Processing&lt;/a&gt;, in the Spring &amp;lsquo;18 term at IIT Kanpur under &lt;a href=&#34;https://www.iitk.ac.in/new/dr-harish-karnick#&#34;&gt;Prof. Harish Karnick&lt;/a&gt;, Department of Computer Science and Engineering, IIT Kanpur.&lt;/p&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
@@ -153,9 +153,9 @@ existing representations&lt;/p&gt;
     
     <item>
       <title>Quantum Machine Learning</title>
-      <link>https://amr4i.github.io/project/quantum-machine-learning/</link>
+      <link>https://ali4ai.github.io/project/quantum-machine-learning/</link>
       <pubDate>Mon, 27 Nov 2017 00:00:00 -0500</pubDate>
-      <guid>https://amr4i.github.io/project/quantum-machine-learning/</guid>
+      <guid>https://ali4ai.github.io/project/quantum-machine-learning/</guid>
       <description>&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
 &lt;p&gt;This project was done as research project in the course &lt;a href=&#34;https://www.cse.iitk.ac.in/pages/CS682.html&#34;&gt;CS682: Quantum Computing&lt;/a&gt;, in the Fall &amp;lsquo;17 term at IIT Kanpur under &lt;a href=&#34;https://www.cse.iitk.ac.in/users/rmittal/&#34;&gt;Prof. Rajat Mittal&lt;/a&gt;, Department of Computer Science and Engineering, IIT Kanpur.&lt;/p&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
@@ -177,9 +177,9 @@ counterparts.&lt;/p&gt;
     
     <item>
       <title>Reviewer Recommendation for Conference Paper Submissions</title>
-      <link>https://amr4i.github.io/project/reviewer-recommendation/</link>
+      <link>https://ali4ai.github.io/project/reviewer-recommendation/</link>
       <pubDate>Mon, 27 Nov 2017 00:00:00 -0500</pubDate>
-      <guid>https://amr4i.github.io/project/reviewer-recommendation/</guid>
+      <guid>https://ali4ai.github.io/project/reviewer-recommendation/</guid>
       <description>&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
 &lt;p&gt;This project was done as part of the course &lt;a href=&#34;https://www.cse.iitk.ac.in/pages/CS771.html&#34;&gt;CS771: Machine Learning Techniques&lt;/a&gt;, in the Fall &amp;lsquo;17 term at IIT Kanpur under &lt;a href=&#34;https://www.cse.iitk.ac.in/users/purushot/&#34;&gt;Prof. Purushottam Kar&lt;/a&gt;, Department of Computer Science and Engineering, IIT Kanpur.&lt;/p&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
@@ -200,9 +200,9 @@ paper vectors and author vectors.&lt;/p&gt;
     
     <item>
       <title>Language Independent Text-to-Emotion Classification</title>
-      <link>https://amr4i.github.io/project/language-independent-emotion/</link>
+      <link>https://ali4ai.github.io/project/language-independent-emotion/</link>
       <pubDate>Thu, 27 Jul 2017 00:00:00 -0400</pubDate>
-      <guid>https://amr4i.github.io/project/language-independent-emotion/</guid>
+      <guid>https://ali4ai.github.io/project/language-independent-emotion/</guid>
       <description>&lt;h2 id=&#34;location&#34;&gt;Location&lt;/h2&gt;
 &lt;p&gt;This project was done as a industrial software internship at &lt;a href=&#34;https://hike.in/&#34;&gt;Hike Pvt. Ltd., New Delhi&lt;/a&gt;, during &lt;em&gt;May &amp;lsquo;17 - Jul &amp;lsquo;17&lt;/em&gt;, the summer of my second year.&lt;/p&gt;
 &lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
@@ -221,9 +221,9 @@ paper vectors and author vectors.&lt;/p&gt;
     
     <item>
       <title>Machine Learning for large scale logistics platform</title>
-      <link>https://amr4i.github.io/project/nyo/</link>
+      <link>https://ali4ai.github.io/project/nyo/</link>
       <pubDate>Thu, 27 Jul 2017 00:00:00 -0400</pubDate>
-      <guid>https://amr4i.github.io/project/nyo/</guid>
+      <guid>https://ali4ai.github.io/project/nyo/</guid>
       <description>&lt;h2 id=&#34;location&#34;&gt;Location&lt;/h2&gt;
 &lt;p&gt;This project was done as a remote software development internship at &lt;a href=&#34;https://nyc.iitk.ac.in/NYC/&#34;&gt;New York Office, IIT Kanpur&lt;/a&gt; during &lt;em&gt;May &amp;lsquo;18 - Jul &amp;lsquo;18&lt;/em&gt;, the summer of my second year.&lt;/p&gt;
 &lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
